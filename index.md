@@ -5,9 +5,9 @@ Project Goals:
   2. Use the mathematical model to generate possible robot trajectories from a given starting location to ending location (feed forward control)
   3. Use the mathematical model to design a time-variant Linear Quatratic Regulator to stabalize and execute the trajectory
 
-### Markdown
+### Physical Model with Lagrangian Dynamics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lagrangian dynamics reduces the task of computing a mathematical model of a mechanical system to a straightforward applicatoin of differential equations and energetics. While Newtonian dynamics requires keeping track of explicit constraint forces and requires the use of a cartesian coordinate system, Lagrangian dynamics is very effective at simplifying complex systems by enforcing constraings implicitly, which greatly reduces the the number of equations and variables required to model a system. 
 
 ```markdown
 Syntax highlighted code block
