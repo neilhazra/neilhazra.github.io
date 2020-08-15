@@ -1,5 +1,10 @@
 ## Two Wheel Robot
 
+Project Goals:
+  1. Create a complete, ideal model of an unstable two wheel robot with Lagrangian dynamics
+  2. Use the mathematical model to generate possible robot trajectories from a given starting location to ending location (feed forward control)
+  3. Use the mathematical model to design a time-variant Linear Quatratic Regulator to stabalize and execute the trajectory
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
